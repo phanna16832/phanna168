@@ -21,4 +21,22 @@ nav a:hover {
   background-color: #042ed6;
   color: black;
 }
-
+img{
+  display: flex;
+  justify-content: center;
+  width: 20%;
+}
+pre{
+  text-align: left;
+  width: 90px;
+}
+button{
+  display: flex;
+  justify-content: center;
+  border-style: unset;
+  background-color: pink;
+}
+a{
+  text-decoration: none;
+  color: purple;
+}
