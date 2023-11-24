@@ -36,34 +36,3 @@ nav{
 .button:hover{
     background-color: #786ed4;
 }
-#pr1 img{
-    width: 200px;
-}
-#pr1 pre{
-    font-size: medium;
-    color : pink;
-}
-#pr1{
-    border: outset blueviolet;
-}
-#pr1 button{
-    border-radius: 25px;
-    background-color: #334a94;
-    border-style: none;
-}
-#pr1 button a{
-    text-decoration: none;
-    color: pink;
-}
-#pr2 img{
-    width: 300px;
-}
-video{
-    width: 200px;
-}
-.content{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    row-gap: 10%;
-}
